@@ -3,21 +3,6 @@
 
 4, 3, 2, 2, 1
 
-Você pode tornar o 2 em 1 para por um ponto a mais em algum outro atributo. Para isso você deve ter dois uns (1)
-# Risco
-O risco se dá, em média, 15.
-# Poderes
-Em média, tem que ser 20
-# Sanidade
-Sem média, PRD + 3
-# Velocidade
-Média de velocidade máxima deve ser 20
-# Vida
-Média 100% é 5
-Minimo é 1
-# Proficiência
-2
-
 # **Funcionamento**
 ### Risco
 O seu risco será aplicado de acordo com sua arma, algumas armas aplicaram 100% de risco em uma determinada distância um quinto desse risco em outro distância. A arma também determina quantas entidades serão alvos do seu risco. 
